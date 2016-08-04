@@ -1,0 +1,28 @@
+_repo: Robert-Louis-Stevenson--A-Record-an-Estimate-and-a-Memorial_590
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Japp, Alexander H. (Alexander Hay)
+    alias: Japp, Alexander Hay
+    birthdate: 1839
+    deathdate: 1905
+    gutenberg_agent_id: '305'
+    url: http://www.gutenberg.org/2009/agents/305
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894'
+- !lcc 'CT'
+- !lcsh 'Authors, Scottish -- 19th century -- Biography'
+- GITenberg
+title: 'Robert Louis Stevenson: A Record, an Estimate, and a Memorial'
+url: http://www.gutenberg.org/ebooks/590
